@@ -57,7 +57,7 @@ Misc
 + I practice neatness and minimalism.
 + I play table tennis, play badminton, and ski.
 + I love to sing, attend classic or pop concerts, and travel to large cities.
-+ I write [blogs (CN)](http://xhslink.com/5JP3XI) about my thoughts and experience. <br/>
++ I write [blogs](http://xhslink.com/5JP3XI) (in Chinese yet) about my thoughts and experience. <br/>
 
 <html>
 <head>
