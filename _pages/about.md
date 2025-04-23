@@ -13,7 +13,7 @@ Hi! I am a Computer Science Ph.D. student at [UC Berkeley](https://eecs.berkeley
 
 My research focuses on **AI security** in real-world applications. I am currently working on **prompt injection defense** ([SecAlign](https://arxiv.org/pdf/2410.05451), [StruQ](http://arxiv.org/pdf/2402.06363), [Jatmo](https://arxiv.org/pdf/2312.17673)) for safely using LLMs in systems (e.g., as agents). [Prompt injection attack](https://www.ibm.com/topics/prompt-injection) is listed as the [#1 threat](https://owasp.org/www-project-top-10-for-large-language-model-applications) to LLM-integrated applications, where an LLM input contains a trusted prompt (instruction) and an untrusted data (user documents, web retrieval, results from API calls, etc) with potentially injected instructions (Ignore previous instructions and ...) to arbitrarily manipulate the LLM. <a href='https://scholar.google.com/citations?user=lp5ujPsAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Sizhe-Chen/Sizhe-Chen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-I am fortunate to have mentored lots of talented students (and some from underrepresentative groups): [Yizhu Wang](https://cn.linkedin.com/in/yizhu-wang-b738242a3), [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), [Zhixing Ye](https://ieeexplore.ieee.org/author/37089933329), [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani), and [Zhengbao He](https://openreview.net/profile?id=~Zhengbao_He1). Feel free to drop me an email to connect! I accept approximation on my name's [pronunciation](https://www.chinesenametools.com/meaning/result?first_name=%E6%80%9D%E5%93%B2).
+I am fortunate to have mentored or worked with lots of talented students: [Yizhu Wang](https://cn.linkedin.com/in/yizhu-wang-b738242a3), [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), [Zhixing Ye](https://ieeexplore.ieee.org/author/37089933329), [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani), and [Zhengbao He](https://openreview.net/profile?id=~Zhengbao_He1). Feel free to drop me an email to connect! I accept approximation on my name's [pronunciation](https://www.chinesenametools.com/meaning/result?first_name=%E6%80%9D%E5%93%B2).
 
 Invited Talks
 ------
@@ -57,7 +57,8 @@ Misc
 + I practice neatness and minimalism.
 + I play table tennis, play badminton, and ski.
 + I love to sing, attend classic or pop concerts, and travel to large cities.
-+ I write [blogs](http://xhslink.com/5JP3XI) (in Chinese yet) about my thoughts and experience. <br/>
++ I write [blogs](http://xhslink.com/5JP3XI) (in Chinese yet) about my thoughts and experience.
++ My Erdös number is 3 due to my collaboration with [Chuan Guo](https://sites.google.com/view/chuanguo). <br/>
 
 <html>
 <head>
