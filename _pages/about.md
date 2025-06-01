@@ -9,7 +9,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a CS Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). I am working closely with [Chuan Guo](https://sites.google.com/view/chuanguo) ([Meta FAIR](https://ai.meta.com/research)), [Nicholas Carlini](https://nicholas.carlini.com) ([Anthropic](https://www.anthropic.com)), and [Chawin Sitawari](https://chawins.github.io) ([Google DeepMind](https://deepmind.google)), supported by Meta- and Google-[BAIR Commons](https://bcommons.berkeley.edu/home). I got my M.Eng. (National Scholarship) and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), and also with Prof. [Cihang Xie](https://cihangxie.github.io).
+Hi! I am a CS Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). I am working closely with [Chuan Guo](https://sites.google.com/view/chuanguo) ([Meta FAIR](https://ai.meta.com/research)), [Nicholas Carlini](https://nicholas.carlini.com) ([Anthropic](https://www.anthropic.com)), and [Chawin Sitawari](https://chawins.github.io) ([Google DeepMind](https://deepmind.google)), supported by Meta- and Google-[BAIR Commons](https://bcommons.berkeley.edu/home). I got my M.Eng. (National Scholarship) and B.Eng. (Best Bachelor's Thesis) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), and also with Prof. [Cihang Xie](https://cihangxie.github.io).
 
 My research focuses on **AI security** in real-world applications. I am currently working on **prompt injection defense** ([SecAlign](https://arxiv.org/pdf/2410.05451), [StruQ](http://arxiv.org/pdf/2402.06363), [Jatmo](https://arxiv.org/pdf/2312.17673)) for safely using LLMs in systems, e.g., as agents. [Prompt injection attack](https://www.ibm.com/topics/prompt-injection) is listed as the [#1 threat](https://owasp.org/www-project-top-10-for-large-language-model-applications) to LLM-integrated applications, where the trusted system serves the trusted user when interactiving with the untrusted environment. To better answer the user instruction (in the prompt part), the system retrieves external data (documents, webpages, API returns, etc), which may contain injected instructions (Ignore previous instructions and ...) trying to manipulate the system. <a href='https://scholar.google.com/citations?user=lp5ujPsAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Sizhe-Chen/Sizhe-Chen.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -43,7 +43,7 @@ Services
 Awards
 ------
 + **Research Fundings**: Meta-BAIR Commons 2024-2026, Google-BAIR Commons 2024-2025, UC Berkeley EECS Departmental Fellowship 2023, NeurIPS 2022 / ICLR 2023 Travel Support
-+ **Degree Awards**: SJTU Extraordinary Bachelor's Thesis (1%, Summa Cum Laude equivalent) 2020, SJTU Outstanding Graduate 2022/2023
++ **Degree Awards**: SJTU Best Bachelor's Thesis (1%) 2020, SJTU Outstanding Graduate 2022/2023
 + **Scholarship**: China National Scholarship (0.2%) 2021/2022, Kwang-Hua Scholarship 2019, Arawana Scholarship 2017
 
 Misc
