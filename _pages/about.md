@@ -17,10 +17,10 @@ I am fortunate to have mentored or worked with lots of talented students: [Yizhu
 
 Invited Talks
 ------
-+ **Prompt Injection Defenses** [![](https://img.shields.io/badge/Talk-edca82)](https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view?usp=sharing) [![](https://img.shields.io/badge/Lecture-bf2c34)](https://drive.google.com/file/d/1g0BVB5HCMjJU4IBGWfdUVope4gr5V_cL/view?usp=sharing) [![](https://img.shields.io/badge/Media-75291c)](https://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense) <br/> Guest Lecture at [Generative AI: Foundations, Applications, and Safety (Duke)](https://ece590-genai.github.io) 2025 <br/> UC Berkeley Security Seminar 2024 <br/> Hong Kong Baptist University TMLR Young Scientist Seminar 2024 <br/> Shanghai Jiao Tong University PAMI Group Seminar 2024
++ **Securing LLMs Against Prompt Injection for Agentic Applications** [![](https://img.shields.io/badge/Talk-edca82)](https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1-EEHGDqyYaBnbB_Uiq_l-nFfJUeq3GTN/view?usp=sharing) [![](https://img.shields.io/badge/Lecture-bf2c34)](https://drive.google.com/file/d/1g0BVB5HCMjJU4IBGWfdUVope4gr5V_cL/view?usp=sharing) [![](https://img.shields.io/badge/Media-75291c)](https://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense) <br/> Google DeepMind: Adversarial Machine Learning Seminar 2025 <br/> Duke University: Guest Lecture at [Generative AI: Foundations, Applications, and Safety](https://ece590-genai.github.io) 2025 <br/> UC Berkeley: Security Seminar 2024 <br/> Hong Kong Baptist University: TMLR Young Scientist Seminar 2024 <br/> Shanghai Jiao Tong University: PAMI Group Seminar 2024
 + **On the Learning Preference of Deep Neural Networks** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/11G7gn0-_sAsLTc5vKi6econZlCZdR0Kg/view?usp=sharing) <br/> ICLR Oral Track 2023 <br/> AI Time Youth Ph.D. Talk 2023
 + **Subspace Adversarial Training** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1NaF_bZkrPvfsScLfVcjPqcPVQ3CW8hoK/view?usp=sharing) <br/> CVPR Oral Track 2022
-+ **Adversarial Attacks and Defenses** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1i6CIrdynqdidqgoTACkSmJEVQm7xRT0S/view?usp=sharing) <br/> Northeastern University Security Seminar 2022
++ **Adversarial Attacks and Defenses** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1i6CIrdynqdidqgoTACkSmJEVQm7xRT0S/view?usp=sharing) <br/> Northeastern University: Security Seminar 2022
 
 (Prompt Injection) Security of LLMs
 ------
@@ -37,7 +37,7 @@ Security of Vision Models (Previous [SoP](https://drive.google.com/file/d/1nmocM
 
 Services
 ------
-+ **Reviewer**: CCS 2024/2025, SaTML 2025, NeurIPS 2023/2025, ICML 2024/2025, ICLR 2023/2024/2025, CVPR 2023/2024/2025, ICCV 2023, ECCV 2022/2024, IEEE TPAMI, Machine Learning, Pattern Recognition
++ **Reviewer**: CCS 2024/2025, SaTML 2025/2026, NeurIPS 2023/2025, ICML 2024/2025, ICLR 2023/2024/2025, CVPR 2023/2024/2025, ICCV 2023, ECCV 2022/2024, IEEE TPAMI, Machine Learning, Pattern Recognition
 + **UC Berkeley EECS Student Reviewer**: Faculty Hiring Committee 2024, Ph.D. Admission Committee 2024, Equal Access to Application Assistance 2024
 
 Awards
@@ -49,8 +49,7 @@ Awards
 Misc
 ------
 + I practice neatness and minimalism.
-+ I play table tennis, play badminton, and ski.
-+ I love to sing, attend classic or pop concerts, and travel to large cities.
++ I love to sing, attend concerts, play table tennis, play badminton, and ski.
 + I write [blogs](http://xhslink.com/5JP3XI) (in Chinese yet) about my thoughts and experience.
 + My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 due to my collaboration with [Chuan Guo](https://sites.google.com/view/chuanguo). <br/>
 
