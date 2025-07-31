@@ -46,7 +46,7 @@ Services
 
 Awards
 ------
-+ **Research Fundings**: Meta-BAIR Commons 2024-2026, Google-BAIR Commons 2024-2025, UC Berkeley EECS Departmental Fellowship 2023, NeurIPS 2022 / ICLR 2023 Travel Support
++ **Research Fundings**: Meta-BAIR Commons 2024-2026, Google-BAIR Commons 2024-2026, UC Berkeley EECS Departmental Fellowship 2023, NeurIPS 2022 / ICLR 2023 Travel Support
 + **Degree Awards**: SJTU Best Bachelor's Thesis (1%) 2020, SJTU Outstanding Graduate 2022/2023
 + **Scholarship**: China National Scholarship (0.2%) 2021/2022, Kwang-Hua Scholarship 2019, Arawana Scholarship 2017
 
