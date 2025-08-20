@@ -53,7 +53,7 @@ Awards
 Misc
 ------
 + I practice neatness and minimalism.
-+ I love to sing, attend concerts, play table tennis, play badminton, and ski.
++ I love to sing, attend concerts, photograph, hike, ski, play badminton and table tennis.
 + I write [blogs](http://xhslink.com/5JP3XI) (in Chinese yet) about my thoughts and experience.
 + My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3 due to my collaboration with [Chuan Guo](https://sites.google.com/view/chuanguo). <br/>
 
