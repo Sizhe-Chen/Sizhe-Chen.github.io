@@ -41,7 +41,7 @@ Security of Vision Models (Previous [SoP](https://drive.google.com/file/d/1nmocM
 
 Services
 ------
-+ **Reviewer**: CCS 2024/2025/2026, SaTML 2025/2026, NeurIPS 2023/2025, ICML 2024/2025, ICLR 2023/2024/2025, CVPR 2023/2024/2025, ICCV 2023, ECCV 2022/2024, IEEE TPAMI, Machine Learning, Pattern Recognition
++ **Reviewer**: CCS 2024/2025/2026, SaTML 2025/2026, NeurIPS 2023/2025, ICML 2024/2025, ICLR 2023/2024/2025/2026, CVPR 2023/2024/2025, ICCV 2023, ECCV 2022/2024, IEEE TPAMI, Machine Learning, Pattern Recognition
 + **UC Berkeley EECS Student Reviewer**: Faculty Hiring Committee 2024, Ph.D. Admission Committee 2024, Equal Access to Application Assistance 2024
 
 Awards
