@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <p align="center">Sizhe Chen, [陈思哲](https://www.chinesenametools.com/meaning/result?first_name=%E6%80%9D%E5%93%B2)</p>
+title: <p align="center">Sizhe Chen (陈思哲)</p>
 author_profile: true
 redirect_from: 
   - /about/
