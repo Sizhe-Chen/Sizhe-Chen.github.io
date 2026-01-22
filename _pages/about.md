@@ -16,8 +16,9 @@ I study **AI security** in real-world applications. Currently, I am defending ag
 I am extremely fortunate to have 
 + Ph.D. Thesis Committee: [David Wagner](https://people.eecs.berkeley.edu/~daw), [Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca), [Sewon Min](https://www.sewonmin.com), and [Eric Wallace](https://www.ericswallace.com)
 + Mentors: [Chuan Guo](https://sites.google.com/view/chuanguo), [Nicholas Carlini](https://nicholas.carlini.com), [Chawin Sitawari](https://chawins.github.io), and [Arman Zharmagambetov](https://arman-z.github.io)
-+ Mentees: [Yibo Peng](https://pppyb.github.io), [Akshay Anand](https://www.linkedin.com/in/akshay-anand-968b27230), [Yizhu Wang](https://yizhu-joy.github.io), [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), and Zhixing Ye. <br/> 
-Previously, I got my M.Eng. (National Scholarship) and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), [working with](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing) [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), when I also got supported from [Cihang Xie](https://cihangxie.github.io/), [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), and [Haotian Tang](http://kentang.net/).
++ Mentees: [Yibo Peng](https://pppyb.github.io), [Akshay Anand](https://www.linkedin.com/in/akshay-anand-968b27230), [Yizhu Wang](https://yizhu-joy.github.io), [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), and Zhixing Ye.
+
+Previously, I got my M.Eng. and B.Eng. from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), [working with](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing) [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), when I also got supported from [Cihang Xie](https://cihangxie.github.io/), [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), and [Haotian Tang](http://kentang.net/).
 
 Feel free to connect me by email, but emails in another language or with attachments tend to be classified as spam by gmail. People have creatively mis-spelled my name as "Size", "Shizhe", "Sizche", etc :).
 
