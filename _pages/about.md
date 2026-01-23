@@ -20,7 +20,7 @@ I am extremely fortunate to have
 
 Previously, I got my M.Eng. and B.Eng. from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), [working with](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing) [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), when I also got supported from [Cihang Xie](https://cihangxie.github.io/), [Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), and [Haotian Tang](http://kentang.net/).
 
-Feel free to connect me by email, but emails in another language or with attachments tend to be classified as spam by gmail. People have creatively mis-spelled my name as "Size", "Shizhe", "Sizche", etc :).
+Feel free to connect me by email, but emails in non-English or with attachments tend to be mis-classified as spam by gmail. I accept approximation of my name's pronunciation, but people's creativity has expanded to the spelling, e.g., "Size", "Shizhe", "Sizche", etc :).
 
 Invited Talks
 ------
