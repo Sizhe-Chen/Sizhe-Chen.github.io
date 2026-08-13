@@ -92,12 +92,20 @@ button:focus-visible {
     margin-bottom: 60px;
 }
 
-.profile-img {
+.profile-img-frame {
     width: 140px;
     height: 140px;
     border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 30px;
+}
+
+.profile-img {
+    display: block;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    margin-bottom: 30px;
+    transform: translate(-1.5px, -1.5px) scale(1.04);
     filter: grayscale(20%);
 }
 
@@ -385,6 +393,18 @@ h1 {
     border-color: var(--primary-color);
 }
 
+.misc-page > h1 {
+    margin-bottom: 50px;
+}
+
+.misc-page .service-section {
+    margin-bottom: 40px;
+}
+
+.misc-page .page-intro {
+    margin-bottom: 0;
+}
+
 .misc-list {
     list-style: none;
 }
@@ -463,7 +483,7 @@ footer {
         font-size: 0.82em;
     }
 
-    .profile-img {
+    .profile-img-frame {
         width: 150px;
         height: 150px;
     }
