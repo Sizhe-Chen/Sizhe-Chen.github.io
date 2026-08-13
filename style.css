@@ -292,6 +292,10 @@ h1 {
     margin: 12px 0;
 }
 
+.talk-invitation {
+    margin-top: 14px;
+}
+
 .abbr-badge {
     display: inline-block;
     color: #fff;
