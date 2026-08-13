@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Publications by Sizhe Chen on AI security, prompt injection, and adversarial machine learning.">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <title>Publications — Sizhe Chen</title>
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <nav aria-label="Primary">
+        <a href="index.html">About</a>
+        <a href="publications.html" class="active" aria-current="page">Publications</a>
+        <a href="people.html">People</a>
+        <a href="service.html">Service</a>
+        <a href="awards.html">Awards</a>
+        <a href="misc.html">Misc</a>
+    </nav>
+
+    <main id="main-content">
+        <h1>Publications</h1>
+        <p class="subtitle">* = equal contribution. Final venue year is used when it differs from the preprint or early-access year.</p>
+        <p class="page-intro">
+            This local index contains 21 publications. For the latest citation record and any newly added work, see
+            <a href="https://scholar.google.com/citations?user=lp5ujPsAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+        </p>
+
+        <section class="year-section" aria-labelledby="year-2026">
+            <h2 id="year-2026">2026</h2>
+            <article class="publication">
+                <h3>Defending Against Prompt Injection with DataFilter</h3>
+                <p class="authors">Yizhu Wang, <strong>Sizhe Chen</strong>, Raghad Alkhudair, Basel Alomair, David Wagner</p>
+                <p class="venue"><span class="abbr-badge">SaTML</span>IEEE Conference on Secure and Trustworthy Machine Learning</p>
+                <div class="resource-links">
+                    <a href="https://arxiv.org/abs/2510.19207" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://huggingface.co/JoyYizhu/DataFilter" target="_blank" rel="noopener noreferrer">Model</a>
+                    <a href="https://github.com/yizhu-joy/DataFilter" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+        </section>
+
+        <section class="year-section" aria-labelledby="year-2025">
+            <h2 id="year-2025">2025</h2>
+            <article class="publication">
+                <h3>Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks</h3>
+                <p class="authors"><strong>Sizhe Chen</strong><sup>*</sup>, Arman Zharmagambetov, David Wagner, Chuan Guo<sup>*</sup></p>
+                <p class="venue"><span class="abbr-badge">Preprint</span>2025</p>
+                <p class="summary">Meta-SecAlign-70B is a fully open foundation model with built-in prompt-injection defense while retaining commercial-grade utility.</p>
+                <div class="resource-links">
+                    <a href="https://arxiv.org/abs/2507.02735" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://huggingface.co/facebook/Meta-SecAlign-8B" target="_blank" rel="noopener noreferrer">8B Model</a>
+                    <a href="https://huggingface.co/facebook/Meta-SecAlign-70B" target="_blank" rel="noopener noreferrer">70B Model</a>
+                    <a href="https://drive.google.com/file/d/1JbbgKPQVQ-Pa5LVYWyR4Eo5ckNyrZiPw/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
+                    <a href="https://drive.google.com/file/d/1Xy_njupWCAN56NMsQV22hD7uShg5oBP8/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/facebookresearch/Meta_SecAlign" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>SecAlign: Defending Against Prompt Injection with Preference Optimization</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Arman Zharmagambetov, Saeed Mahloujifar, Kamalika Chaudhuri, David Wagner, Chuan Guo</p>
+                <p class="venue"><span class="abbr-badge">CCS</span>ACM Conference on Computer and Communications Security</p>
+                <p class="summary">SecAlign preference-optimizes an LLM to favor secure responses over responses that follow injected instructions.</p>
+                <div class="resource-links">
+                    <a href="https://dl.acm.org/doi/10.1145/3719027.3744836" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2410.05451" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://sizhe-chen.github.io/SecAlign-Website" target="_blank" rel="noopener noreferrer">Website</a>
+                    <a href="https://drive.google.com/file/d/1-HFnET2azKniaS4k5dvgVwoRLa4Eg584/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
+                    <a href="https://drive.google.com/file/d/1SwaQrsNdmr7QJ9sPzfTXcjT2ZXA4w6nJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/facebookresearch/SecAlign" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>StruQ: Defending Against Prompt Injection with Structured Queries</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Julien Piet, Chawin Sitawarin, David Wagner</p>
+                <p class="venue"><span class="abbr-badge">USENIX Security</span>USENIX Security Symposium</p>
+                <p class="summary">StruQ separates the user instruction and untrusted data into distinct channels to defend against prompt injection.</p>
+                <div class="resource-links">
+                    <a href="https://www.usenix.org/system/files/usenixsecurity25-chen-sizhe.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://arxiv.org/abs/2402.06363" target="_blank" rel="noopener noreferrer">arXiv</a>
+                    <a href="https://sizhe-chen.github.io/StruQ-Website" target="_blank" rel="noopener noreferrer">Website</a>
+                    <a href="https://drive.google.com/file/d/1UUz4t43sGqFOPZqNxf8izR--iLAl16QX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
+                    <a href="https://drive.google.com/file/d/1FkTHIhGAaPtFwf91tgBad-sE7PEJnySJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/Sizhe-Chen/StruQ" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Defending Against Prompt Injection with a Few Defensive Tokens</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Yizhu Wang, Nicholas Carlini, Chawin Sitawarin, David Wagner</p>
+                <p class="venue"><span class="abbr-badge">AISec Spotlight</span>ACM Workshop on Artificial Intelligence and Security</p>
+                <div class="resource-links">
+                    <a href="https://dl.acm.org/doi/10.1145/3733799.3762982" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2507.07974" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://drive.google.com/file/d/1P6AfgGCqV5r3lU8Us8ehLDN6tpajDSm-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/Sizhe-Chen/DefensiveToken" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+        </section>
+
+        <section class="year-section" aria-labelledby="year-2024">
+            <h2 id="year-2024">2024</h2>
+            <article class="publication">
+                <h3>Jatmo: Prompt Injection Defense by Task-Specific Finetuning</h3>
+                <p class="authors">Julien Piet, Maha Alrashed, Chawin Sitawarin, <strong>Sizhe Chen</strong>, Zeming Wei, Elizabeth Sun, Basel Alomair, David Wagner</p>
+                <p class="venue"><span class="abbr-badge">ESORICS</span>European Symposium on Research in Computer Security</p>
+                <div class="resource-links">
+                    <a href="https://doi.org/10.1007/978-3-031-70879-4_6" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2312.17673" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://github.com/wagner-group/prompt-injection-defense" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Query Attack by Multi-Identity Surrogates</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Zhehao Huang, Qinghua Tao, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">IEEE TAI</span>IEEE Transactions on Artificial Intelligence, 5(2):684–697</p>
+                <div class="resource-links">
+                    <a href="https://doi.org/10.1109/TAI.2023.3257276" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2105.15010" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://github.com/Sizhe-Chen/QueryNet" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+        </section>
+
+        <section class="year-section" aria-labelledby="year-2023">
+            <h2 id="year-2023">2023</h2>
+            <article class="publication">
+                <h3>Can LLMs Follow Simple Rules?</h3>
+                <p class="authors">Norman Mu, Sarah Chen, Zifan Wang, <strong>Sizhe Chen</strong>, David Karamardian, Lulwa Aljeraisy, Basel Alomair, Dan Hendrycks, David Wagner</p>
+                <p class="venue"><span class="abbr-badge">Preprint</span>arXiv</p>
+                <div class="resource-links">
+                    <a href="https://arxiv.org/abs/2311.04235" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://github.com/normster/llm_rules" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks</h3>
+                <p class="authors">Shutong Wu<sup>*</sup>, <strong>Sizhe Chen</strong><sup>*</sup>, Cihang Xie, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">ICLR Spotlight</span>International Conference on Learning Representations</p>
+                <div class="resource-links">
+                    <a href="https://openreview.net/forum?id=p7G8t5FVn2h" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://drive.google.com/file/d/1p5SSuoGPcQCMul9N7pmp_1ON_xupKeoD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
+                    <a href="https://iclr.cc/virtual/2023/oral/12603" target="_blank" rel="noopener noreferrer">Talk</a>
+                    <a href="https://drive.google.com/file/d/1maneRbPHAbKd8-toYXnAcpqabNhciOEK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/cychomatica/One-Pixel-Shotcut" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">ICLR</span>International Conference on Learning Representations</p>
+                <div class="resource-links">
+                    <a href="https://openreview.net/forum?id=9MO7bjoAfIA" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://github.com/Sizhe-Chen/SEP" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Investigating Catastrophic Overfitting in Fast Adversarial Training: A Self-Fitting Perspective</h3>
+                <p class="authors">Zhengbao He, Tao Li, <strong>Sizhe Chen</strong>, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">CVPRW</span>CVPR Workshop on Adversarial Machine Learning</p>
+                <div class="resource-links"><a href="https://openaccess.thecvf.com/content/CVPR2023W/AML/html/He_Investigating_Catastrophic_Overfitting_in_Fast_Adversarial_Training_A_Self-Fitting_Perspective_CVPRW_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></div>
+            </article>
+
+            <article class="publication">
+                <h3>Measuring the Transferability of ℓ∞ Attacks by the ℓ2 Norm</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Qinghua Tao, Zhixing Ye, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">ICASSP</span>IEEE International Conference on Acoustics, Speech and Signal Processing</p>
+                <div class="resource-links"><a href="https://doi.org/10.1109/ICASSP49357.2023.10096892" target="_blank" rel="noopener noreferrer">Paper</a></div>
+            </article>
+
+            <article class="publication">
+                <h3>Unifying Gradients to Improve Real-World Robustness for Deep Networks</h3>
+                <p class="authors">Yingwen Wu, <strong>Sizhe Chen</strong>, Kun Fang, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">ACM TIST</span>ACM Transactions on Intelligent Systems and Technology, 14(6)</p>
+                <div class="resource-links">
+                    <a href="https://doi.org/10.1145/3617895" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2208.06228" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://github.com/snowien/UniG-pytorch" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+        </section>
+
+        <section class="year-section" aria-labelledby="year-2022">
+            <h2 id="year-2022">2022</h2>
+            <article class="publication">
+                <h3>Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">IEEE TPAMI</span>IEEE Transactions on Pattern Analysis and Machine Intelligence</p>
+                <div class="resource-links">
+                    <a href="https://ieeexplore.ieee.org/document/9238430" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://arxiv.org/abs/2001.06325" target="_blank" rel="noopener noreferrer">arXiv</a>
+                    <a href="https://drive.google.com/file/d/1KkcXy5No_hQ7wiqN5aawTpoBkms2jAy3/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/Sizhe-Chen/DAmageNet" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Subspace Adversarial Training</h3>
+                <p class="authors">Tao Li, Yingwen Wu, <strong>Sizhe Chen</strong>, Kun Fang, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">CVPR Oral</span>IEEE/CVF Conference on Computer Vision and Pattern Recognition</p>
+                <div class="resource-links">
+                    <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://arxiv.org/abs/2111.12229" target="_blank" rel="noopener noreferrer">arXiv</a>
+                    <a href="https://drive.google.com/file/d/1AMKDIKvcaOmG1Y-p9aWDsoJzhOrrsFv3/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
+                    <a href="https://drive.google.com/file/d/1NCwOfILYPF6SOudDrHp4t9Q1lu-BfPFf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Talk</a>
+                    <a href="https://drive.google.com/file/d/1NaF_bZkrPvfsScLfVcjPqcPVQ3CW8hoK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
+                    <a href="https://github.com/nblt/Sub-AT" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">NeurIPS</span>Conference on Neural Information Processing Systems</p>
+                <div class="resource-links">
+                    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/5fa29a2f163ce2020769eca8956e2d77-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a>
+                    <a href="https://github.com/Sizhe-Chen/AAA" target="_blank" rel="noopener noreferrer">Code</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Relevance Attack on Detectors</h3>
+                <p class="authors"><strong>Sizhe Chen</strong>, Fan He, Xiaolin Huang, Kun Zhang</p>
+                <p class="venue"><span class="abbr-badge">Pattern Recognition</span>Volume 124, Article 108491</p>
+                <div class="resource-links">
+                    <a href="https://doi.org/10.1016/j.patcog.2021.108491" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2008.06822" target="_blank" rel="noopener noreferrer">Paper</a>
+                </div>
+            </article>
+        </section>
+
+        <section class="year-section" aria-labelledby="year-2021">
+            <h2 id="year-2021">2021</h2>
+            <article class="publication">
+                <h3>Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training</h3>
+                <p class="authors">Fan He, <strong>Sizhe Chen</strong>, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">ISBI</span>IEEE International Symposium on Biomedical Imaging</p>
+                <div class="resource-links"><a href="https://doi.org/10.1109/ISBI48211.2021.9434050" target="_blank" rel="noopener noreferrer">Paper</a></div>
+            </article>
+
+            <article class="publication">
+                <h3>Dominant Patterns: Critical Features Hidden in Deep Neural Networks</h3>
+                <p class="authors">Zhixing Ye, Shaofei Qin, <strong>Sizhe Chen</strong>, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">Preprint</span>arXiv</p>
+                <div class="resource-links"><a href="https://arxiv.org/abs/2105.15057" target="_blank" rel="noopener noreferrer">Paper</a></div>
+            </article>
+        </section>
+
+        <section class="year-section" aria-labelledby="year-2020">
+            <h2 id="year-2020">2020</h2>
+            <article class="publication">
+                <h3>Type I Attack for Generative Models</h3>
+                <p class="authors">Chengjin Sun, <strong>Sizhe Chen</strong>, Jia Cai, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">ICIP</span>IEEE International Conference on Image Processing</p>
+                <div class="resource-links">
+                    <a href="https://doi.org/10.1109/ICIP40778.2020.9191032" target="_blank" rel="noopener noreferrer">DOI</a>
+                    <a href="https://arxiv.org/abs/2003.01872" target="_blank" rel="noopener noreferrer">Paper</a>
+                </div>
+            </article>
+
+            <article class="publication">
+                <h3>Double Backpropagation for Training Autoencoders Against Adversarial Attack</h3>
+                <p class="authors">Chengjin Sun, <strong>Sizhe Chen</strong>, Xiaolin Huang</p>
+                <p class="venue"><span class="abbr-badge">Preprint</span>arXiv</p>
+                <div class="resource-links"><a href="https://arxiv.org/abs/2003.01895" target="_blank" rel="noopener noreferrer">Paper</a></div>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
