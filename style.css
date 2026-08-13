@@ -407,7 +407,8 @@ h1 {
 }
 
 .misc-photo {
-    margin: 0;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .misc-photo img {
