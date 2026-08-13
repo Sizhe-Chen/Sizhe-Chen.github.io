@@ -231,17 +231,10 @@ h1 {
     margin-bottom: 50px;
 }
 
-.subtitle a,
-.page-intro a {
+.subtitle a {
     color: #000;
     text-decoration: none;
     border-bottom: 1px solid var(--border-color);
-}
-
-.page-intro {
-    color: var(--secondary-color);
-    margin: 0 0 44px;
-    max-width: 700px;
 }
 
 .year-section,
@@ -315,18 +308,6 @@ h1 {
     text-transform: uppercase;
 }
 
-.service-item {
-    margin-bottom: 35px;
-}
-
-.service-item h3 {
-    color: var(--primary-color);
-    font-size: 1em;
-    font-weight: 400;
-    letter-spacing: -0.2px;
-    margin-bottom: 18px;
-}
-
 .service-entry {
     display: flex;
     justify-content: space-between;
@@ -382,7 +363,8 @@ h1 {
     border-color: var(--primary-color);
 }
 
-.misc-page > h1 {
+.misc-page > h1,
+.section-page > h1 {
     margin-bottom: 50px;
 }
 
