@@ -416,7 +416,6 @@ h1 {
     height: auto;
 }
 
-.misc-photo figcaption,
 .visitor-map p {
     color: var(--muted-color);
     font-size: 0.85em;
