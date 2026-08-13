@@ -105,7 +105,7 @@ button:focus-visible {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transform: translate(-1.5px, -1.5px) scale(1.04);
+    transform: translate(-3px, -3px) scale(1.04);
     filter: grayscale(20%);
 }
 
@@ -150,8 +150,7 @@ button:focus-visible {
 }
 
 .links a,
-.resource-links a,
-.section-link {
+.resource-links a {
     color: var(--link-color);
     background: transparent;
     border: 1px solid var(--border-color);
@@ -170,8 +169,7 @@ button:focus-visible {
 }
 
 .links a:hover,
-.resource-links a:hover,
-.section-link:hover {
+.resource-links a:hover {
     border-color: var(--primary-color);
     background-color: var(--light-gray);
 }
@@ -206,14 +204,14 @@ button:focus-visible {
     margin-bottom: 10px;
 }
 
-.bio a:not(.section-link):not(.resource-links a) {
+.bio a:not(.resource-links a) {
     color: var(--link-color);
     text-decoration: none;
     border-bottom: 1px solid var(--border-color);
     transition: border-color 0.2s;
 }
 
-.bio a:not(.section-link):not(.resource-links a):hover {
+.bio a:not(.resource-links a):hover {
     border-bottom-color: var(--primary-color);
 }
 
@@ -317,15 +315,6 @@ h1 {
     text-transform: uppercase;
 }
 
-.home-section-action {
-    margin-top: -4px;
-}
-
-.section-link {
-    display: inline-block;
-    margin-top: 2px;
-}
-
 .service-item {
     margin-bottom: 35px;
 }
@@ -397,16 +386,9 @@ h1 {
     margin-bottom: 50px;
 }
 
-.misc-page .service-section {
-    margin-bottom: 40px;
-}
-
-.misc-page .page-intro {
-    margin-bottom: 0;
-}
-
 .misc-list {
     list-style: none;
+    margin-bottom: 40px;
 }
 
 .misc-list li {
@@ -424,24 +406,17 @@ h1 {
     border-bottom: 1px solid var(--border-color);
 }
 
-.media-grid {
-    display: grid;
-    grid-template-columns: minmax(0, 3fr) minmax(180px, 2fr);
-    gap: 24px;
-    align-items: start;
-}
-
-.media-grid figure {
+.misc-photo {
     margin: 0;
 }
 
-.media-grid img {
+.misc-photo img {
     display: block;
     width: 100%;
     height: auto;
 }
 
-.media-grid figcaption,
+.misc-photo figcaption,
 .visitor-map p {
     color: var(--muted-color);
     font-size: 0.85em;
@@ -456,6 +431,7 @@ h1 {
 
 .visitor-map {
     min-height: 220px;
+    margin-top: 60px;
     text-align: center;
 }
 
@@ -515,8 +491,7 @@ footer {
         text-align: left;
     }
 
-    .student-grid,
-    .media-grid {
+    .student-grid {
         grid-template-columns: 1fr;
     }
 }
