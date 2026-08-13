@@ -17,5 +17,4 @@ python3 -m http.server 8000
 Then open <http://localhost:8000/>.
 
 The `.nojekyll` file tells GitHub Pages to publish the HTML, CSS, and assets
-directly without processing the legacy Jekyll source files that remain in the
-repository.
+directly, with no build step.
