@@ -295,6 +295,10 @@ h1 {
     margin-top: 14px;
 }
 
+.talk .appearances:not(:last-child) {
+    margin-bottom: 20px;
+}
+
 .abbr-badge {
     display: inline-block;
     color: #fff;
