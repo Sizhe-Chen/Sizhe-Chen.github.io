@@ -23,6 +23,7 @@
     <nav aria-label="Primary">
         <a href="index.html" class="active" aria-current="page">About</a>
         <a href="publications.html">Publications</a>
+        <a href="talks.html">Talks</a>
         <a href="people.html">People</a>
         <a href="service.html">Service</a>
         <a href="awards.html">Awards</a>
@@ -35,8 +36,10 @@
                 <img src="assets/profile_concert.png" alt="Portrait of Sizhe Chen at a concert" class="profile-img" width="140" height="140">
             </div>
             <h1>Sizhe Chen <span lang="zh-Hans">(陈思哲)</span></h1>
-            <p class="title">AI Security Researcher</p>
-            <p class="email"><a href="mailto:sizhe.chen@berkeley.edu">sizhe.chen@berkeley.edu</a> · San Francisco</p>
+            <div class="profile-contact">
+                <p class="title">AI Security Researcher</p>
+                <p class="email"><a href="mailto:sizhe.chen@berkeley.edu">sizhe.chen@berkeley.edu</a></p>
+            </div>
             <div class="links" aria-label="Profile links">
                 <a href="https://scholar.google.com/citations?user=lp5ujPsAAAAJ" target="_blank" rel="noopener noreferrer">Scholar</a>
                 <a href="https://github.com/Sizhe-Chen" target="_blank" rel="noopener noreferrer">GitHub</a>
@@ -49,56 +52,17 @@
 
         <section class="bio" aria-label="About Sizhe Chen">
             <p>
-                Hi! I am a CS Ph.D. candidate at UC <a href="https://bair.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley AI Research (BAIR)</a> with <a href="https://people.eecs.berkeley.edu/~daw" target="_blank" rel="noopener noreferrer">David Wagner</a> (also closely with <a href="https://sites.google.com/view/chuanguo" target="_blank" rel="noopener noreferrer">Chuan Guo</a> and <a href="https://www.sewonmin.com/" target="_blank" rel="noopener noreferrer">Sewon Min</a>). 
+                Hi! I am a CS Ph.D. candidate at UC <a href="https://bair.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley AI Research (BAIR)</a> with <a href="https://people.eecs.berkeley.edu/~daw" target="_blank" rel="noopener noreferrer">David Wagner</a> (also closely with <a href="https://sites.google.com/view/chuanguo" target="_blank" rel="noopener noreferrer">Chuan Guo</a> and <a href="https://www.sewonmin.com/" target="_blank" rel="noopener noreferrer">Sewon Min</a>).
                 I study real-world AI security problems with general and principled solutions. I led research towards the most secure open LLMs against prompt injection,
                 the <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/" target="_blank" rel="noopener noreferrer">top-1 threat to AI agents</a>. Featured work includes <a href="https://arxiv.org/pdf/2402.06363" target="_blank" rel="noopener noreferrer">StruQ</a>,
-                <a href="https://arxiv.org/pdf/2507.02735" target="_blank" rel="noopener noreferrer">(Meta-)</a><a href="https://arxiv.org/pdf/2410.05451" target="_blank" rel="noopener noreferrer">SecAlign</a>, <a href="https://arxiv.org/pdf/2608.21500" target="_blank" rel="noopener noreferrer">SecOPD</a>, and SecPO 
-                (check out our latest <a href="https://huggingface.co/Sizhe-Chen/Qwen3.6-27B-Instruct-SecPO" target="_blank" rel="noopener noreferrer">Qwen3.6-27B-Instruct-SecPO</a> that is robust to the <a href="https://arxiv.org/pdf/2510.09023" target="_blank" rel="noopener noreferrer">current strongest adaptive attacks</a>). 
-                My research has been supported by selective industry fundings, including
+                <a href="https://arxiv.org/pdf/2507.02735" target="_blank" rel="noopener noreferrer">(Meta-)</a><a href="https://arxiv.org/pdf/2410.05451" target="_blank" rel="noopener noreferrer">SecAlign</a>, <a href="https://arxiv.org/pdf/2608.21500" target="_blank" rel="noopener noreferrer">SecOPD</a>, and SecPO, see slides for my <a href="https://drive.google.com/file/d/1-EEHGDqyYaBnbB_Uiq_l-nFfJUeq3GTN/view" target="_blank" rel="noopener noreferrer">talks</a> and <a href="https://drive.google.com/file/d/1D90T3oXJjLIYVwjuVzquxz5dCSsVrKci/view?usp=sharing" target="_blank" rel="noopener noreferrer">lectures</a>. Check out our latest <a href="https://huggingface.co/Sizhe-Chen/Qwen3.6-27B-Instruct-SecPO" target="_blank" rel="noopener noreferrer">Qwen3.6-27B-Instruct-SecPO</a> that is robust to the <a href="https://arxiv.org/pdf/2510.09023" target="_blank" rel="noopener noreferrer">current strongest adaptive attacks</a>.
+                My research has been supported by industry fundings, including
                 <a href="https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/" target="_blank" rel="noopener noreferrer">NVIDIA Graduate Fellowship</a>,
                 <a href="https://bcommons.berkeley.edu/home" target="_blank" rel="noopener noreferrer">Meta FAIR and Google DeepMind through BAIR Commons</a>.
-                I obtained an M.Eng. and a B.Eng. from
+                I spent two wonderful years at Meta FAIR. I obtained an M.Eng. and a B.Eng. from
                 <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a>.
             </p>
 
-            <h2>Securing LLMs Against Prompt Injection for Agentic Applications</h2>
-
-            <article class="talk">
-                <p class="talk-invitation">
-                    Feel free to <a href="mailto:sizhe.chen@berkeley.edu">email me</a> for a talk
-                    (<a href="https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">abstract</a>
-                    and <a href="https://drive.google.com/file/d/1-EEHGDqyYaBnbB_Uiq_l-nFfJUeq3GTN/view" target="_blank" rel="noopener noreferrer">slides</a>)
-                    or lecture (<a href="https://drive.google.com/file/d/1D90T3oXJjLIYVwjuVzquxz5dCSsVrKci/view?usp=sharing" target="_blank" rel="noopener noreferrer">slides</a>).
-                </p>
-                <div class="service-list" aria-label="Talk history">
-                    <!-- <div class="service-entry"><strong>UC Berkeley NLP Group Seminar</strong><span>2027</span></div> -->
-                    <div class="service-entry"><strong><a href="https://securitylunch.stanford.edu" target="_blank" rel="noopener noreferrer">Stanford Security Lunch</a></strong><span>2026</span></div>
-                    <div class="service-entry"><strong>MIT <a href="https://pdos.csail.mit.edu/" target="_blank" rel="noopener noreferrer">PDOS Seminar</a></strong><span>2026</span></div>
-                    <div class="service-entry"><strong>Princeton <a href="https://pli.princeton.edu/events/2026/securing-llms-against-prompt-injection-agentic-applications" target="_blank" rel="noopener noreferrer">PLI Seminar</a></strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UC Berkeley <a href="https://security.cs.berkeley.edu/seminar/?talk=securing-llms-prompt-injection" target="_blank" rel="noopener noreferrer">Security Seminar</a></strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UC Berkeley Sky Seminar</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UC Berkeley <a href="https://berkeley-cs182.github.io/fa26/" target="_blank" rel="noopener noreferrer">Deep Learning</a> Guest Lecture</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UMD Advanced Machine Learning Seminar</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UCLA Computer System Security Guest Lecture</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>USC Institute on Ethics and Trust in Computing Group Seminar</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UIUC <a href="https://courses.illinois.edu/schedule/2026/fall/CS/591" target="_blank" rel="noopener noreferrer">Security Seminar</a></strong><span>2026</span></div>
-                    <div class="service-entry"><strong>ByteDance Agent Security Talk</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>NVIDIA Agent &amp; Security Talk</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>IBM Research Lunch Talk</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>Meta FAIR Security and Privacy Group Seminar</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UC Berkeley NLP Group Seminar</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>UC Berkeley <a href="https://people.eecs.berkeley.edu/~daw/teaching/cs261-s26/" target="_blank" rel="noopener noreferrer">Computer Security</a> Guest Lecture</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>Shanghai AI Lab Xinghe Talk</strong><span>2026</span></div>
-                    <div class="service-entry"><strong>PSU Threats and Cybersecurity Guest Lecture</strong><span>2025</span></div>
-                    <div class="service-entry"><strong>UCSD Security and Cryptography Group</strong><span>2025</span></div>
-                    <div class="service-entry"><strong>Cornell-Tech <a href="https://trustworthy-ai-2025.github.io/" target="_blank" rel="noopener noreferrer">Trustworthy AI</a> Guest Lecture</strong><span>2025</span></div>
-                    <div class="service-entry"><strong>Google DeepMind Adversarial ML Seminar</strong><span>2025</span></div>
-                    <div class="service-entry"><strong>Duke <a href="https://ece590-genai.github.io/" target="_blank" rel="noopener noreferrer">Generative AI</a> Guest Lecture</strong><span>2025</span></div>
-                    <div class="service-entry"><strong>UC Berkeley <a href="https://security.cs.berkeley.edu/seminar/?talk=prompt-injection-defenses-structured" target="_blank" rel="noopener noreferrer">Security Seminar</a></strong><span>2024</span></div>
-                    <div class="service-entry"><strong>Hong Kong Baptist University TMLR Young Scientist Seminar</strong><span>2024</span></div>
-                    <div class="service-entry"><strong>Shanghai Jiao Tong University PAMI Group</strong><span>2024</span></div>
-                </div>
-            </article>
         </section>
 
     </main>
