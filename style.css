@@ -237,8 +237,7 @@ h1 {
     margin-bottom: 8px;
 }
 
-.subtitle,
-.talks-page .talk-invitation {
+.subtitle {
     color: var(--muted-color);
     font-size: 13.5px;
     font-weight: 300;
@@ -306,24 +305,14 @@ h1 {
     margin: 12px 0;
 }
 
-.talk-invitation {
-    margin-top: 14px;
-}
-
 .talks-page .bio {
     max-width: none;
     margin: 0;
     text-align: left;
 }
 
-.talk-invitation strong {
+.talks-page .subtitle strong {
     font-weight: 500;
-}
-
-.talks-page .talk-invitation {
-    margin-top: 0;
-    margin-bottom: 20px;
-    line-height: 1.7;
 }
 
 .abbr-badge {
