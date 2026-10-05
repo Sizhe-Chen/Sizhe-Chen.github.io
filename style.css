@@ -319,6 +319,14 @@ h1 {
     font-weight: 500;
 }
 
+.talks-page .talk-invitation {
+    color: var(--primary-color);
+    font-size: 1.05em;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    line-height: 1.5;
+}
+
 .abbr-badge {
     display: inline-block;
     color: #fff;
