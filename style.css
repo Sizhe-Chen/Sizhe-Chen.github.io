@@ -321,6 +321,7 @@ h1 {
 }
 
 .talks-page .talk-invitation {
+    margin-top: 0;
     margin-bottom: 20px;
     line-height: 1.7;
 }
