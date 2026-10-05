@@ -309,6 +309,16 @@ h1 {
     margin-top: 14px;
 }
 
+.talks-page .bio {
+    max-width: none;
+    margin: 0;
+    text-align: left;
+}
+
+.talk-invitation strong {
+    font-weight: 500;
+}
+
 .abbr-badge {
     display: inline-block;
     color: #fff;
