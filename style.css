@@ -193,6 +193,28 @@ button:focus-visible {
     margin: 0 auto;
 }
 
+.research-figure {
+    max-width: 700px;
+    margin: 32px auto 0;
+}
+
+.research-figure a,
+.research-figure img {
+    display: block;
+}
+
+.research-figure img {
+    width: 100%;
+    height: auto;
+}
+
+.research-figure figcaption {
+    color: var(--secondary-color);
+    font-size: 0.9em;
+    line-height: 1.7;
+    margin-top: 14px;
+}
+
 .bio p {
     font-weight: 300;
     line-height: 1.8;
